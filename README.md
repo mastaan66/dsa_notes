@@ -6,7 +6,7 @@ Welcome to the **Data Structures and Algorithms (DSA) Notes** repository. This r
 
 This repository is divided into three main sections:
 
-1. **Problems with solutions**: Contains well-known DSA problems with problem statements, approaches, and examples.
+1. **Problems**: Contains well-known DSA problems with problem statements, approaches, and examples.
 2. **Patterns**: Contains commonly used patterns in DSA, explaining how they can be applied to solve different problems.
 
 ---
@@ -30,7 +30,7 @@ Here is a list of classic problems and their explanations:
 ## 🚀 **How to Use This Repository**
 
 1. **Understand Patterns**: Start by going through the [Patterns](./patterns) section to understand different problem-solving approaches.
-2. **Solve Problems**: Visit the [Problems](./problems) section to find a wide range of problems. Try solving them on your own, then refer to the [Solutions](./solutions) for guidance.
+2. **Solve Problems**: Visit the [Problems](./problems) section to find a wide range of problems with documentation and solutions.
 3. **Practice Regularly**: Consistent practice is key to mastering DSA. Keep revisiting the repository and attempt more challenging problems as you progress.
 
 ---
