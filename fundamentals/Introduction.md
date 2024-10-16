@@ -30,8 +30,18 @@ The term *algorithm* is used in computer science to describe a finite, determini
 - The choice of the best algorithm for a particular task can be a complicated process, perhaps involving sophisticated mathematical analysis. The branch of computer science that comprises the study of such questions is called analysis of algorithms.
 - We should not use an algorithm without having an idea of what resources it might consume, so we strive to be aware of how our algorithms might be expected to perform.
 
-#### 1.1 BASIC PROGRAMMING MODEL
+#### BASIC PROGRAMMING MODEL
 
 We refer to the programming constructs, software libraries, and operating system features that we use to implement and describe algorithms as our programming model.
 
+**Primitive data type:** a set of values and a set of operations on those values
 
+**identifier:** a sequence of letters, digits, _ and $, the first of which is not a digit
+
+**variable:** names a data-type value
+
+**operator:** names a data-type operation
+
+**literal:** source-code representation of a value
+
+**expression:** a literal, a variable, or a sequence of operations on literals and/or variables that produces a value
