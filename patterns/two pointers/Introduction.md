@@ -135,6 +135,14 @@ An example with the current element involved:
 `Determine the maximum amount of money you can steal tonight without robbing adjacent houses.`
 
 ```cpp
-// I have to understand first and then write the code
+    int rob(vector<int> &v) {
+        int temp = 0, last = 0, now = 0;
+        for(int i : v) {
+            temp = now; //sotring the prev val of now
+            now = max(l + i, now); // finding the max val upto this home
+            last = temp;
+        }
+        return now;
+    }
 ```
 j
